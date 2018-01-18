@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Sync buckets in same region
 # $1 - Source S3 bucket  
 # $2 - New (Destination) S3 bucket
 
